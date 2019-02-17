@@ -1,0 +1,25 @@
+ sudo pdftotext result_CHN.pdf -layout
+
+grep "CHN17CS" result_CHN.txt > cs.txt
+
+sed -i 's/(O)/ 10 /g' cs.txt
+
+awk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' cs.txt > gpa.txt
+
+sed $'s/[^[:print:]\t]//g' cs.txt
+
+ paste -d'  ' cs.txt gpa.txt
+
+awk '{print $1}' cs.txt > reg.txt
+
+sed $'s/[^[:print:]\t]//g' reg.txt
+
+paste -d' ' reg.txt gpa.txt > res.txt
+
+sed $'s/[^[:print:]\t]//g' res.txt > resu.txt
+
+ awk 'NR==FNR {seen[$3]=1; next} seen[$1]==1 {seen[$2]++; print $2}' s4d.txt resu.txt > ccgpa.txt
+
+paste -d'\t' final.txt ccgpa.txt > s4d_s1_result.txt
+
+ sed -i '1 i\Sl.No      Ad.No       Reg.No           Name              CGPA' s4d_s1_result.txt
