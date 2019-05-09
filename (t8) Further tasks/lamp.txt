@@ -1,0 +1,813 @@
+
+
+Harikrishnan S Kartha
+CSD 26
+
+
+Script started on Thursday 09 May 2019 10:55:55 AM IST
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo apt update
+[sudo] password for clab1: 
+[33m
+0% [Working][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m
+[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m
+[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.16[0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m
+[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m
+[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m
+
+[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m[33m
+0% [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)] [Connecting to 192.168.0.2 (192.168.0.2)][0m^Z
+[1]+  Stopped                 sudo apt update
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo apt update
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 1%
+
+Reading package lists... 4%
+
+Reading package lists... 4%
+
+Reading package lists... 8%
+
+Reading package lists... 8%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 10%
+
+Reading package lists... 28%
+
+Reading package lists... 33%
+
+Reading package lists... 33%
+
+Reading package lists... 56%
+
+Reading package lists... 56%
+
+Reading package lists... 57%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 71%
+
+Reading package lists... 71%
+
+Reading package lists... 74%
+
+Reading package lists... 74%
+
+Reading package lists... 77%
+
+Reading package lists... 77%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 88%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 96%
+
+Reading package lists... 96%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... Done
+
+E: Could not get lock /var/lib/apt/lists/lock - open (11: Resource temporarily unavailable)
+E: Unable to lock directory /var/lib/apt/lists/
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ 
+[K]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo apt install apache2
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+apache2 is already the newest version (2.4.18-2ubuntu3.10).
+0 upgraded, 0 newly installed, 0 to remove and 79 not upgraded.
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo ufw app list
+Available applications:
+  Apache
+  Apache Full
+  Apache Secure
+  CUPS
+  Nginx Full
+  Nginx HTTP
+  Nginx HTTPS
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo apt install ufw
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+ufw is already the newest version (0.35-0ubuntu2).
+0 upgraded, 0 newly installed, 0 to remove and 79 not upgraded.
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo apt install ufw app list
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+E: Unable to locate package app
+E: Unable to locate package list
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo ufw app ins[Kfo "www[K[K[K[K"WWW Full"
+ERROR: Could not find profile 'WWW Full'
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo ufw app info "WWW Full" "
+ERROR: Could not find profile 'WWW Full '
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo ufw app info "WWW Full "[C[C[C[1@ [1@i[1@n
+ERROR: Could not find profile 'in'
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sudo systemct1 enabv[Kle apache2
+sudo: systemct1: command not found
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ cd /var/www/html/
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ ls
+index.html  index.nginx-debian.html
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ rm index.nginx-debian.html
+rm: remove write-protected regular file 'index.nginx-debian.html'? 
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ vim index.html
+The program 'vim' can be found in the following packages:
+ * vim
+ * vim-gnome
+ * vim-tiny
+ * vim-athena
+ * vim-athena-py2
+ * vim-gnome-py2
+ * vim-gtk
+ * vim-gtk-py2
+ * vim-gtk3
+ * vim-gtk3-py2
+ * vim-nox
+ * vim-nox-py2
+Try: sudo apt install <selected package>
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ ls
+index.html  index.nginx-debian.html
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo apt insta;; mariadb-server
+bash: syntax error near unexpected token `;;'
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo apt insta;; mariadb-server[1P mariadb-server[1P mariadb-serverl mariadb-serverl mariadb-server
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+The following package was automatically installed and is no longer required:
+  libevent-core-2.0-5
+Use 'sudo apt autoremove' to remove it.
+The following additional packages will be installed:
+  libdbd-mysql-perl libdbi-perl libmysqlclient20 libreadline5
+  libterm-readkey-perl mariadb-client-10.0 mariadb-client-core-10.0
+  mariadb-common mariadb-server-10.0 mariadb-server-core-10.0
+Suggested packages:
+  libmldbm-perl libnet-daemon-perl libsql-statement-perl mailx mariadb-test
+  tinyca
+The following packages will be REMOVED:
+  mysql-client-5.7 mysql-client-core-5.7 mysql-server mysql-server-5.7
+  mysql-server-core-5.7
+The following NEW packages will be installed:
+  libdbd-mysql-perl libdbi-perl libmysqlclient20 libreadline5
+  libterm-readkey-perl mariadb-client-10.0 mariadb-client-core-10.0
+  mariadb-common mariadb-server mariadb-server-10.0 mariadb-server-core-10.0
+0 upgraded, 11 newly installed, 5 to remove and 74 not upgraded.
+Need to get 16.3 MB of archives.
+After this operation, 14.9 MB disk space will be freed.
+Do you want to continue? [Y/n] y
+[33m
+0% [Working][0m
+            
+Get:1 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-common all 10.0.38-0ubuntu0.16.04.1 [15.7 kB]
+[33m
+0% [1 mariadb-common 2,559 B/15.7 kB 16%][0m[33m
+                                         
+2% [Working][0m
+            
+Get:2 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libdbi-perl amd64 1.634-1build1 [743 kB]
+[33m
+2% [2 libdbi-perl 1,448 B/743 kB 0%][0m[33m
+3% [2 libdbi-perl 201 kB/743 kB 27%][0m[33m
+                                    
+7% [Working][0m
+            
+Get:3 http://in.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libmysqlclient20 amd64 5.7.26-0ubuntu0.16.04.1 [812 kB]
+[33m
+7% [3 libmysqlclient20 1,110 B/812 kB 0%][0m[33m
+                                         
+13% [Working][0m
+             
+Get:4 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libdbd-mysql-perl amd64 4.033-1ubuntu0.1 [84.3 kB]
+[33m
+13% [4 libdbd-mysql-perl 0 B/84.3 kB 0%][0m[33m
+                                        
+15% [Working][0m
+             
+Get:5 http://in.archive.ubuntu.com/ubuntu xenial/universe amd64 libterm-readkey-perl amd64 2.33-1build1 [27.2 kB]
+[33m
+15% [5 libterm-readkey-perl 2,560 B/27.2 kB 9%][0m[33m
+                                               
+17% [Working][0m
+             
+Get:6 http://in.archive.ubuntu.com/ubuntu xenial/main amd64 libreadline5 amd64 5.2+dfsg-3build1 [99.5 kB]
+[33m
+17% [6 libreadline5 0 B/99.5 kB 0%][0m[33m
+                                   
+20% [Working][0m
+             
+Get:7 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-client-core-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [4,286 kB]
+[33m
+20% [7 mariadb-client-core-10.0 1,108 B/4,286 kB 0%][0m[33m
+28% [7 mariadb-client-core-10.0 1,768 kB/4,286 kB 41%][0m[33m
+39% [7 mariadb-client-core-10.0 4,029 kB/4,286 kB 94%][0m[33m
+                                                      
+43% [Working][0m
+             
+Get:8 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-client-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [1,162 kB]
+[33m
+43% [8 mariadb-client-10.0 1,108 B/1,162 kB 0%][0m[33m
+                                               
+50% [Working][0m
+             
+Get:9 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-server-core-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [4,859 kB]
+[33m
+50% [9 mariadb-server-core-10.0 2,556 B/4,859 kB 0%][0m[33m
+60% [9 mariadb-server-core-10.0 1,910 kB/4,859 kB 39%][0m[33m
+74% [9 mariadb-server-core-10.0 4,773 kB/4,859 kB 98%][0m[33m
+                                                      
+76% [Working][0m
+             
+Get:10 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-server-10.0 amd64 10.0.38-0ubuntu0.16.04.1 [4,160 kB]
+[33m
+76% [10 mariadb-server-10.0 1,108 B/4,160 kB 0%][0m[33m
+79% [10 mariadb-server-10.0 734 kB/4,160 kB 18%][0m[33m
+96% [10 mariadb-server-10.0 4,139 kB/4,160 kB 100%]               2,579 kB/s 0s[0m[33m
+98% [Working]                                                     2,579 kB/s 0s[0m
+                                                                               
+Get:11 http://in.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 mariadb-server all 10.0.38-0ubuntu0.16.04.1 [13.1 kB]
+[33m
+98% [11 mariadb-server 0 B/13.1 kB 0%]                            2,579 kB/s 0s[0m[33m
+100% [Working]                                                    2,579 kB/s 0s[0m
+                                                                               
+Fetched 16.3 MB in 6s (2,540 kB/s)
+Preconfiguring packages ...
+
+7[0;23r8[1A(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 215407 files and directories currently installed.)
+Removing mysql-server (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  1%][49m[39m [#.........................................................] 87[24;0f[42m[30mProgress: [  2%][49m[39m [##........................................................] 87[24;0f[42m[30mProgress: [  4%][49m[39m [###.......................................................] 8Removing mysql-server-5.7 (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [  5%][49m[39m [####......................................................] 87[24;0f[42m[30mProgress: [  7%][49m[39m [#####.....................................................] 8update-alternatives: using /etc/mysql/my.cnf.fallback to provide /etc/mysql/my.cnf (my.cnf) in auto mode
+7[24;0f[42m[30mProgress: [  8%][49m[39m [#####.....................................................] 8Removing mysql-client-5.7 (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [  9%][49m[39m [######....................................................] 87[24;0f[42m[30mProgress: [ 11%][49m[39m [#######...................................................] 87[24;0f[42m[30mProgress: [ 12%][49m[39m [########..................................................] 8Removing mysql-client-core-5.7 (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [ 14%][49m[39m [#########.................................................] 87[24;0f[42m[30mProgress: [ 15%][49m[39m [#########.................................................] 87[24;0f[42m[30mProgress: [ 16%][49m[39m [##########................................................] 8Removing mysql-server-core-5.7 (5.7.25-0ubuntu0.16.04.2) ...
+7[24;0f[42m[30mProgress: [ 18%][49m[39m [###########...............................................] 87[24;0f[42m[30mProgress: [ 19%][49m[39m [############..............................................] 87[24;0f[42m[30mProgress: [ 21%][49m[39m [#############.............................................] 8Processing triggers for man-db (2.7.5-1) ...
+Selecting previously unselected package mariadb-common.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 215187 files and directories currently installed.)
+Preparing to unpack .../mariadb-common_10.0.38-0ubuntu0.16.04.1_all.deb ...
+7[24;0f[42m[30mProgress: [ 22%][49m[39m [##############............................................] 8Unpacking mariadb-common (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 23%][49m[39m [##############............................................] 87[24;0f[42m[30mProgress: [ 25%][49m[39m [###############...........................................] 8Selecting previously unselected package libdbi-perl.
+Preparing to unpack .../libdbi-perl_1.634-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 26%][49m[39m [################..........................................] 8Unpacking libdbi-perl (1.634-1build1) ...
+7[24;0f[42m[30mProgress: [ 28%][49m[39m [#################.........................................] 87[24;0f[42m[30mProgress: [ 29%][49m[39m [##################........................................] 8Selecting previously unselected package libmysqlclient20:amd64.
+Preparing to unpack .../libmysqlclient20_5.7.26-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 30%][49m[39m [##################........................................] 8Unpacking libmysqlclient20:amd64 (5.7.26-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 32%][49m[39m [###################.......................................] 87[24;0f[42m[30mProgress: [ 33%][49m[39m [####################......................................] 8Selecting previously unselected package libdbd-mysql-perl.
+Preparing to unpack .../libdbd-mysql-perl_4.033-1ubuntu0.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 35%][49m[39m [#####################.....................................] 8Unpacking libdbd-mysql-perl (4.033-1ubuntu0.1) ...
+7[24;0f[42m[30mProgress: [ 36%][49m[39m [######################....................................] 87[24;0f[42m[30mProgress: [ 38%][49m[39m [#######################...................................] 8Selecting previously unselected package libterm-readkey-perl.
+Preparing to unpack .../libterm-readkey-perl_2.33-1build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 39%][49m[39m [#######################...................................] 8Unpacking libterm-readkey-perl (2.33-1build1) ...
+7[24;0f[42m[30mProgress: [ 40%][49m[39m [########################..................................] 87[24;0f[42m[30mProgress: [ 42%][49m[39m [#########################.................................] 8Selecting previously unselected package libreadline5:amd64.
+Preparing to unpack .../libreadline5_5.2+dfsg-3build1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 43%][49m[39m [##########################................................] 8Unpacking libreadline5:amd64 (5.2+dfsg-3build1) ...
+7[24;0f[42m[30mProgress: [ 45%][49m[39m [###########################...............................] 87[24;0f[42m[30mProgress: [ 46%][49m[39m [###########################...............................] 8Selecting previously unselected package mariadb-client-core-10.0.
+Preparing to unpack .../mariadb-client-core-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 47%][49m[39m [############################..............................] 8Unpacking mariadb-client-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 49%][49m[39m [#############################.............................] 87[24;0f[42m[30mProgress: [ 50%][49m[39m [##############################............................] 8Selecting previously unselected package mariadb-client-10.0.
+Preparing to unpack .../mariadb-client-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 52%][49m[39m [###############################...........................] 8Unpacking mariadb-client-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 53%][49m[39m [################################..........................] 87[24;0f[42m[30mProgress: [ 54%][49m[39m [################################..........................] 8Selecting previously unselected package mariadb-server-core-10.0.
+Preparing to unpack .../mariadb-server-core-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 56%][49m[39m [#################################.........................] 8Unpacking mariadb-server-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 57%][49m[39m [##################################........................] 87[24;0f[42m[30mProgress: [ 59%][49m[39m [###################################.......................] 8Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Setting up mariadb-common (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 60%][49m[39m [####################################......................] 8update-alternatives: using /etc/mysql/mariadb.cnf to provide /etc/mysql/my.cnf (my.cnf) in auto mode
+7[24;0f[42m[30mProgress: [ 61%][49m[39m [####################################......................] 8Selecting previously unselected package mariadb-server-10.0.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 215537 files and directories currently installed.)
+Preparing to unpack .../mariadb-server-10.0_10.0.38-0ubuntu0.16.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 63%][49m[39m [#####################################.....................] 8/var/lib/mysql: found previous version 5.7
+[?1049h[1;23r[4l[?25l(B[m[37m[40m[1;23r[H[2J[1;1H[97m[45m[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[1;1H[37mPackage configuration[4;2H[30m[47m┌────────────────────┤ [31mConfiguring mariadb-server-10.0[30m ├────────────────────┐[5;2H│                                                                           │[97m[40m [6;2H[30m[47m│ The old data directory will be saved at new location.                     │[97m[40m [7;2H[30m[47m│                                                                           │[97m[40m [8;2H[30m[47m│ A file named /var/lib/mysql/debian-*.flag exists on this system. The      │[97m[40m [9;2H[30m[47m│ number indicated a database binary format version that cannot             │[97m[40m [10;2H[30m[47m│ automatically be upgraded (or downgraded).                                │[97m[40m [11;2H[30m[47m│                                                                           │[97m[40m [12;2H[30m[47m│ Therefore the previous data directory will be renamed to                  │[97m[40m [13;2H[30m[47m│ /var/lib/mysql-* and a new data directory will be initialized at          │[97m[40m [14;2H[30m[47m│ /var/lib/mysql.                                                           │[97m[40m [15;2H[30m[47m│                                                                           │[97m[40m [16;2H[30m[47m│ Please manually export/import your data (e.g. with mysqldump) if needed.  │[97m[40m [17;2H[30m[47m│                                                                           │[97m[40m [18;2H[30m[47m│                                  [37m[41m<Ok>[30m[47m                                     │[97m[40m [19;2H[30m[47m│                                                                           │[97m[40m [20;2H[30m[47m└───────────────────────────────────────────────────────────────────────────┘[97m[40m [21;3H                                                                             [18;38H[?12l[?25h[23;1H[37m(B[m[39;49m
+[K
+[?1049lThe file /var/lib/mysql/debian-5.7.flag indicated a
+version that cannot automatically be upgraded. Therefore the
+previous data directory will be renamed to /var/lib/mysql-5.7 and
+a new data directory will be initialized at /var/lib/mysql.
+Please manually export/import your data (e.g. with mysqldump) if needed.
+Unpacking mariadb-server-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 64%][49m[39m [######################################....................] 87[24;0f[42m[30mProgress: [ 66%][49m[39m [#######################################...................] 8Selecting previously unselected package mariadb-server.
+Preparing to unpack .../mariadb-server_10.0.38-0ubuntu0.16.04.1_all.deb ...
+7[24;0f[42m[30mProgress: [ 67%][49m[39m [########################################..................] 8Unpacking mariadb-server (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 69%][49m[39m [#########################################.................] 87[24;0f[42m[30mProgress: [ 70%][49m[39m [#########################################.................] 8Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for systemd (229-4ubuntu21.21) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+ureadahead will be reprofiled on next reboot
+Setting up libdbi-perl (1.634-1build1) ...
+7[24;0f[42m[30mProgress: [ 71%][49m[39m [##########################################................] 87[24;0f[42m[30mProgress: [ 73%][49m[39m [###########################################...............] 8Setting up libmysqlclient20:amd64 (5.7.26-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 74%][49m[39m [############################################..............] 87[24;0f[42m[30mProgress: [ 76%][49m[39m [#############################################.............] 8Setting up libdbd-mysql-perl (4.033-1ubuntu0.1) ...
+7[24;0f[42m[30mProgress: [ 77%][49m[39m [#############################################.............] 87[24;0f[42m[30mProgress: [ 78%][49m[39m [##############################################............] 8Setting up libterm-readkey-perl (2.33-1build1) ...
+7[24;0f[42m[30mProgress: [ 80%][49m[39m [###############################################...........] 87[24;0f[42m[30mProgress: [ 81%][49m[39m [################################################..........] 8Setting up libreadline5:amd64 (5.2+dfsg-3build1) ...
+7[24;0f[42m[30mProgress: [ 83%][49m[39m [#################################################.........] 87[24;0f[42m[30mProgress: [ 84%][49m[39m [##################################################........] 8Setting up mariadb-client-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 85%][49m[39m [##################################################........] 87[24;0f[42m[30mProgress: [ 87%][49m[39m [###################################################.......] 8Setting up mariadb-client-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 88%][49m[39m [####################################################......] 87[24;0f[42m[30mProgress: [ 90%][49m[39m [#####################################################.....] 8Setting up mariadb-server-core-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 91%][49m[39m [######################################################....] 87[24;0f[42m[30mProgress: [ 92%][49m[39m [######################################################....] 8Setting up mariadb-server-10.0 (10.0.38-0ubuntu0.16.04.1) ...
+Installing new version of config file /etc/apparmor.d/usr.sbin.mysqld ...
+Installing new version of config file /etc/init.d/mysql ...
+Installing new version of config file /etc/logrotate.d/mysql-server ...
+Installing new version of config file /etc/mysql/debian-start ...
+7[24;0f[42m[30mProgress: [ 94%][49m[39m [#######################################################...] 87[24;0f[42m[30mProgress: [ 95%][49m[39m [########################################################..] 8Setting up mariadb-server (10.0.38-0ubuntu0.16.04.1) ...
+7[24;0f[42m[30mProgress: [ 97%][49m[39m [#########################################################.] 87[24;0f[42m[30mProgress: [ 98%][49m[39m [##########################################################] 8Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Processing triggers for systemd (229-4ubuntu21.21) ...
+Processing triggers for ureadahead (0.100.0-19) ...
+
+7[0;24r8[1A[J]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo apt[K[K[Kmysql_secure_installation
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+In order to log into MariaDB to secure it, we'll need the current
+password for the root user.  If you've just installed MariaDB, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+OK, successfully used password, moving on...
+
+Setting the root password ensures that nobody can log into the MariaDB
+root user without the proper authorisation.
+
+You already have a root password set, so you can safely answer 'n'.
+
+Change the root password? [Y/n] y n
+ ... skipping.
+
+By default, a MariaDB installation has an anonymous user, allowing anyone
+to log into MariaDB without having to have a user account created for
+them.  This is intended only for testing, and to make the installation
+go a bit smoother.  You should remove them before moving into a
+production environment.
+
+Remove anonymous users? [Y/n] y
+ ... Success!
+
+Normally, root should only be allowed to connect from 'localhost'.  This
+ensures that someone cannot guess at the root password from the network.
+
+Disallow root login remotely? [Y/n] n
+ ... skipping.
+
+By default, MariaDB comes with a database named 'test' that anyone can
+access.  This is also intended only for testing, and should be removed
+before moving into a production environment.
+
+Remove test database and access to it? [Y/n] n
+ ... skipping.
+
+Reloading the privilege tables will ensure that all changes made so far
+will take effect immediately.
+
+Reload privilege tables now? [Y/n] n
+ ... skipping.
+
+Cleaning up...
+
+All done!  If you've completed all of the above steps, your MariaDB
+installation should now be secure.
+
+Thanks for using MariaDB!
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo mariadb
+sudo: mariadb: command not found
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo apt install php libapache2-mod-ph 
+p-mysql
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+E: Unable to locate package libapache2-mod-php-mysql
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo vim /etc/apache2/mods-enabled/dir 
+.conf
+sudo: vim: command not found
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo systemctl restart apache2
+]0;clab1@clab1-Veriton-Series: /var/www/html[01;32mclab1@clab1-Veriton-Series[00m:[01;34m/var/www/html[00m$ sudo systemctl restart apache2[C[C[C[C[C[1P apache2[1P apache2[1P apache2[1P apache2[1P apache2[1P apache2[1P apache2s apache2t apache2a apache2t apache2u apache2s apache2
+[?1h=
+● apache2.service - LSB: Apache2 web server[m
+   Loaded: loaded (/etc/init.d/apache2; bad; vendor preset: enabled)[m
+  Drop-In: /lib/systemd/system/apache2.service.d[m
+           └─apache2-systemd.conf[m
+   Active: inactive (dead) since Thu 2019-05-09 11:05:42 IST; 18s ago[m
+     Docs: man:systemd-sysv-generator(8)[m
+  Process: 9902 ExecStop=/etc/init.d/apache2 stop (code=exited, status=0/SUCCESS[m
+  Process: 9886 ExecStart=/etc/init.d/apache2 start (code=exited, status=0/SUCCE[m
+[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]: (98)Address already in use: [m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]: (98)Address already in use: [m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]: no listening sockets availab[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]: AH00015: Unable to open logs[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]: Action 'start' failed.[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]: The Apache error log may hav[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9886]:  *[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9902]:  * Stopping Apache httpd web[m
+May 09 11:05:42 clab1-Veriton-Series apache2[9902]:  *[m
+May 09 11:05:42 clab1-Veriton-Series systemd[1]: Started LSB: Apache2 web server[m
+[7mlines 1-19/19 (END)[27m[K
+[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K-
+[Klog file: [Kuu[Kdd[K[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K
+[K[7mlines 1-19/19 (END)[27m[K
+[K-
+[Klog 
