@@ -1,0 +1,62 @@
+Script started on Thursday 09 May 2019 10:26:59 AM IST
+]0;clab1@clab1-Veriton-Series: ~[01;32mclab1@clab1-Veriton-Series[00m:[01;34m~[00m$ sftp cs17d26@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d26@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> put [Kt sort
+Uploading sort to /home/cs17d26/sort
+sort                                            0%    0     0.0KB/s   --:-- ETAsort                                          100% 1181     1.2KB/s   00:00    
+sftp> ls
+ceccs17d26.11.10.19.txt   examples.desktop          sort                      
+sftp> put sftp,ssh,scp
+stat sftp,ssh,scp: No such file or directory
+sftp> put
+You must specify at least one path after a put command.
+sftp> put sftp, ssh, scp
+stat sftp,: No such file or directory
+sftp> put sftpandother
+Uploading sftpandother to /home/cs17d26/sftpandother
+sftpandother                                    0%    0     0.0KB/s   --:-- ETAsftpandother                                  100% 2202     2.2KB/s   00:00    
+sftp> put serversetup
+stat serversetup: No such file or directory
+sftp> put serversetupetup[KSetup[Pe[1@Se
+Uploading ServerSetup to /home/cs17d26/ServerSetup
+ServerSetup                                     0%    0     0.0KB/s   --:-- ETAServerSetup                                   100%   16KB  16.4KB/s   00:00    
+sftp> put s![K1_result.txt
+Uploading s1_result.txt to /home/cs17d26/s1_result.txt
+s1_result.txt                                   0%    0     0.0KB/s   --:-- ETAs1_result.txt                                 100%  169KB 168.8KB/s   00:00    
+sftp> put rsync
+Uploading rsync to /home/cs17d26/rsync
+rsync                                           0%    0     0.0KB/s   --:-- ETArsync                                         100% 1155     1.1KB/s   00:00    
+sftp> put networl[Kkut n[Pe[1@Neetwork h[KHub
+stat Network: No such file or directory
+sftp> put Network Hub Hub[K
+stat NetworkHub: No such file or directory
+sftp> put NetworkHub
+Uploading NetworkHub to /home/cs17d26/NetworkHub
+NetworkHub                                      0%    0     0.0KB/s   --:-- ETANetworkHub                                    100% 3319     3.2KB/s   00:00    
+sftp> put image1.jpg
+Uploading image1.jpg to /home/cs17d26/image1.jpg
+image1.jpg                                      0%    0     0.0KB/s   --:-- ETAimage1.jpg                                    100%  182KB 181.8KB/s   00:00    
+sftp> put image1.jpgge1.jpg[K2.jpg
+Uploading image2.jpg to /home/cs17d26/image2.jpg
+image2.jpg                                      0%    0     0.0KB/s   --:-- ETAimage2.jpg                                    100%  178KB 177.6KB/s   00:00    
+sftp> put image2.jpg2.jpg[K3.jpg
+Uploading image3.jpg to /home/cs17d26/image3.jpg
+image3.jpg                                      0%    0     0.0KB/s   --:-- ETAimage3.jpg                                    100%  183KB 182.8KB/s   00:00    
+sftp> put image3.jpg.jpg[K4.jpgw.jpg.jpg[K
+Uploading image4.jpg to /home/cs17d26/image4.jpg
+image4.jpg                                      0%    0     0.0KB/s   --:-- ETAimage4.jpg                                    100%  198KB 197.8KB/s   00:00    
+sftp> put image4.jpg.jpg[K5.jpg
+Uploading image5.jpg to /home/cs17d26/image5.jpg
+image5.jpg                                      0%    0     0.0KB/s   --:-- ETAimage5.jpg                                    100%  187KB 186.5KB/s   00:00    
+sftp> put image5.jpg.jpg[K6.jpg.jpg
+Uploading image6.jpg to /home/cs17d26/image6.jpg
+image6.jpg                                      0%    0     0.0KB/s   --:-- ETAimage6.jpg                                    100%  156KB 155.9KB/s   00:00    
+sftp> put alias
+Uploading alias to /home/cs17d26/alias
+alias                                           0%    0     0.0KB/s   --:-- ETAalias                    
